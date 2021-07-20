@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=d:\uni\2_kurs\3_sem\homeworks\rust\project\jumping_jack\target\debug\build\typenum-8da93ba37440d453\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=d:\uni\2_kurs\3_sem\homeworks\rust\project\jumping_jack\target\debug\build\typenum-8da93ba37440d453\out\op.rs

@@ -1,0 +1,12 @@
+D:\uni\2_kurs\3_sem\homeworks\rust\project\jumping_jack\target\debug\deps\lyon_path-10b2f4b6a5b60a42.rmeta: C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.13.2\src\lib.rs C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.13.2\src\events.rs C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.13.2\src\path_state.rs C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.13.2\src\path.rs C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.13.2\src\iterator.rs C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.13.2\src\builder.rs
+
+D:\uni\2_kurs\3_sem\homeworks\rust\project\jumping_jack\target\debug\deps\liblyon_path-10b2f4b6a5b60a42.rlib: C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.13.2\src\lib.rs C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.13.2\src\events.rs C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.13.2\src\path_state.rs C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.13.2\src\path.rs C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.13.2\src\iterator.rs C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.13.2\src\builder.rs
+
+D:\uni\2_kurs\3_sem\homeworks\rust\project\jumping_jack\target\debug\deps\lyon_path-10b2f4b6a5b60a42.d: C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.13.2\src\lib.rs C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.13.2\src\events.rs C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.13.2\src\path_state.rs C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.13.2\src\path.rs C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.13.2\src\iterator.rs C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.13.2\src\builder.rs
+
+C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.13.2\src\lib.rs:
+C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.13.2\src\events.rs:
+C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.13.2\src\path_state.rs:
+C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.13.2\src\path.rs:
+C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.13.2\src\iterator.rs:
+C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\lyon_path-0.13.2\src\builder.rs:

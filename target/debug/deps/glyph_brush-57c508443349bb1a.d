@@ -1,0 +1,12 @@
+d:\uni\2_kurs\3_sem\homeworks\rust\project\jumping_jack\target\debug\deps\glyph_brush-57c508443349bb1a.rmeta: C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.7.2\src\lib.rs C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.7.2\src\extra.rs C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.7.2\src\glyph_brush.rs C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.7.2\src\glyph_brush\builder.rs C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.7.2\src\glyph_calculator.rs C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.7.2\src\owned_section.rs C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.7.2\src\section.rs C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.7.2\src\legacy.rs
+
+d:\uni\2_kurs\3_sem\homeworks\rust\project\jumping_jack\target\debug\deps\glyph_brush-57c508443349bb1a.d: C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.7.2\src\lib.rs C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.7.2\src\extra.rs C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.7.2\src\glyph_brush.rs C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.7.2\src\glyph_brush\builder.rs C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.7.2\src\glyph_calculator.rs C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.7.2\src\owned_section.rs C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.7.2\src\section.rs C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.7.2\src\legacy.rs
+
+C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.7.2\src\lib.rs:
+C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.7.2\src\extra.rs:
+C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.7.2\src\glyph_brush.rs:
+C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.7.2\src\glyph_brush\builder.rs:
+C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.7.2\src\glyph_calculator.rs:
+C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.7.2\src\owned_section.rs:
+C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.7.2\src\section.rs:
+C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.7.2\src\legacy.rs:

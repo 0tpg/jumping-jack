@@ -1,0 +1,11 @@
+D:\uni\2_kurs\3_sem\homeworks\rust\project\jumping_jack\target\debug\deps\cargo_metadata-f50f3605305e0e8f.rmeta: C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.10.0\src\lib.rs C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.10.0\src\dependency.rs C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.10.0\src\diagnostic.rs C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.10.0\src\errors.rs C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.10.0\src\messages.rs
+
+D:\uni\2_kurs\3_sem\homeworks\rust\project\jumping_jack\target\debug\deps\libcargo_metadata-f50f3605305e0e8f.rlib: C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.10.0\src\lib.rs C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.10.0\src\dependency.rs C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.10.0\src\diagnostic.rs C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.10.0\src\errors.rs C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.10.0\src\messages.rs
+
+D:\uni\2_kurs\3_sem\homeworks\rust\project\jumping_jack\target\debug\deps\cargo_metadata-f50f3605305e0e8f.d: C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.10.0\src\lib.rs C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.10.0\src\dependency.rs C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.10.0\src\diagnostic.rs C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.10.0\src\errors.rs C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.10.0\src\messages.rs
+
+C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.10.0\src\lib.rs:
+C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.10.0\src\dependency.rs:
+C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.10.0\src\diagnostic.rs:
+C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.10.0\src\errors.rs:
+C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.10.0\src\messages.rs:

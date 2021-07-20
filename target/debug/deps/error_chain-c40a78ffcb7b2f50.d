@@ -1,0 +1,11 @@
+d:\uni\2_kurs\homeworks\rust\project\jumping_jack\target\debug\deps\error_chain-c40a78ffcb7b2f50.rmeta: C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.4\src\lib.rs C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.4\src\impl_error_chain_kind.rs C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.4\src\error_chain.rs C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.4\src\quick_main.rs C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.4\src\backtrace.rs
+
+d:\uni\2_kurs\homeworks\rust\project\jumping_jack\target\debug\deps\liberror_chain-c40a78ffcb7b2f50.rlib: C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.4\src\lib.rs C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.4\src\impl_error_chain_kind.rs C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.4\src\error_chain.rs C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.4\src\quick_main.rs C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.4\src\backtrace.rs
+
+d:\uni\2_kurs\homeworks\rust\project\jumping_jack\target\debug\deps\error_chain-c40a78ffcb7b2f50.d: C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.4\src\lib.rs C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.4\src\impl_error_chain_kind.rs C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.4\src\error_chain.rs C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.4\src\quick_main.rs C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.4\src\backtrace.rs
+
+C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.4\src\lib.rs:
+C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.4\src\impl_error_chain_kind.rs:
+C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.4\src\error_chain.rs:
+C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.4\src\quick_main.rs:
+C:\Users\D\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.4\src\backtrace.rs:

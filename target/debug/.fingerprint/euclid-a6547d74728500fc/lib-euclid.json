@@ -1,0 +1,1 @@
+{"rustc":6273248261564527691,"features":"[\"default\", \"std\"]","target":843048399823303110,"profile":6299028598154287785,"path":15752522217725427191,"deps":[[11428644826077603515,"num_traits",false,1454333049007796625]],"local":[{"CheckDepInfo":{"dep_info":"debug\\.fingerprint\\euclid-a6547d74728500fc\\dep-lib-euclid"}}],"rustflags":[],"metadata":7654075058072924096,"config":0}
